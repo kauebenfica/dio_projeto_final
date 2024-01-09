@@ -12,7 +12,7 @@ Console.WriteLine("\n");
 
 Console.WriteLine("Smartphone iPhone:");
 
-Iphone iphone = new Iphone("(11) 991692205", "iPhone 15", "7777777", 64);
+Iphone iphone = new Iphone("(11) 991692205", "iPhone 15", "5555555", 64);
 
 iphone.Ligar();
 iphone.ReceberLigacao();
